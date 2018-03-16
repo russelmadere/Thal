@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace Thal.Models
+namespace Thal.Core.Models
 {
     public class IndexViewModel
     {

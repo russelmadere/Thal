@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Thal.Models
+namespace Thal.Core.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

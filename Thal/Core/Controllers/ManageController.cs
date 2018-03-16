@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using Thal.Models;
+using Thal.Core.Models;
 
-namespace Thal.Controllers
+namespace Thal.Core.Controllers
 {
     [Authorize]
     public class ManageController : Controller
